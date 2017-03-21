@@ -1,0 +1,24 @@
+{
+  "name": "node-array-module",
+  "version": "0.1.0",
+  "description": "A simple npm module that returns sum and average values of an array",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzochukwueddie/node-array-module.git"
+  },
+  "keywords": [
+    "array",
+    "sum",
+    "average"
+  ],
+  "author": "Uzochukwu Eddie Odozi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzochukwueddie/node-array-module/issues"
+  },
+  "homepage": "https://github.com/uzochukwueddie/node-array-module#readme"
+}
