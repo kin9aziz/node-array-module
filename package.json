@@ -1,6 +1,6 @@
 {
   "name": "node-array-module",
-  "version": "0.1.0",
+  "version": "0.10.0",
   "description": "A simple npm module that returns sum and average values of an array",
   "main": "server.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "devDependencies": {
     "expect": "^1.20.2",
     "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "github-markdown-css": "^2.4.1"
   }
 }
